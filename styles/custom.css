@@ -1,7 +1,11 @@
 #main{
     width:80%;
     margin:0 auto;
+<<<<<<< HEAD
     background-color: #EEEEEE;    
+=======
+    background-color: #EEEEEE;
+>>>>>>> f3a7c4f80840baca0c6142611ee1d16200079bab
 }
 header h1{
     padding:30px 0 10px 0;
